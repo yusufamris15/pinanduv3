@@ -1,0 +1,31 @@
+* {
+  font-family: Lustria;
+}
+
+
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #e2edff;
+}
+
+.card-body a {
+  text-decoration: none;
+  text-align: center;
+  color: #161d6f;
+}
+
+footer {
+  padding-bottom: 5px;
+}
+footer a {
+  text-decoration: none;
+  color: white;
+}
+
+footer a:hover {
+  color: red;
+}
+
+section {
+  padding-top: 5rem;
+}

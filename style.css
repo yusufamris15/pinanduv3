@@ -2,7 +2,6 @@
   font-family: Lustria;
 }
 
-
 .jumbotron {
   padding-top: 6rem;
   background-color: #e2edff;
@@ -12,6 +11,10 @@
   text-decoration: none;
   text-align: center;
   color: #161d6f;
+}
+
+input::placeholder {
+  font-style: italic;
 }
 
 footer {
